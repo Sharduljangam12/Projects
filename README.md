@@ -1,4 +1,4 @@
-📚 Library Management System (OOPs in Python)
+📚 Library Management System using OOPs in Python
 
 A simple yet powerful Library Management System built using Python, applying core Object-Oriented Programming (OOP) principles like Encapsulation, Inheritance, Polymorphism, and Abstraction.
 
